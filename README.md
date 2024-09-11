@@ -1,4 +1,4 @@
-### Hi there 🚆
+### Hi there
 
 <!--
 **MiaYu1102/MiaYu1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
